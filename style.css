@@ -215,10 +215,12 @@ small {
   visibility: hidden;
 }
 .credits {
+  position: fixed;
+  bottom: 0;
+  right: 0;
   max-width: 100vw;
   text-align: right;
   padding: 10px;
-  background-color: #c1c1c1;
 }
 .credits> p,a{
   text-decoration: none;  
