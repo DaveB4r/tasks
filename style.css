@@ -27,6 +27,9 @@ body {
 .light{
   color: #f8fafc;
 }
+.container{
+  height: 94vh;
+}
 .days,
 .days-weeks {
   display: grid;
